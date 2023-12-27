@@ -4,7 +4,7 @@ Delaware C Corp. building real-time web services using latest web platform techn
 
 ⚡️<br>
 [**RTCode.io**](//RTCode.io)<br>
-The real-time web development playground for HTML, CSS, and JS. Changes in your code reflect instantly in the output, and vice versa. It supports in-editor Workers for backend code, that can be deployed to RTEdge.net.
+The real-time web development playground for HTML, CSS, and JS.<br>Changes in your code reflect instantly in the output, and vice versa.<br>It supports in-editor Workers for backend code, that can be deployed to RTEdge.net.
 
 ✨<br>
 [**RTCode.ai**](//RTCode.ai)<br>
@@ -12,7 +12,7 @@ Our brand-new AI services offering. The agents we develop will assist you in our
 
 🌐<br>
 [**RTEdge.net**](//RTEdge.net)<br>
-Our global, multi-cloud, edge network. It gives your work the world-wide edge with distributed hosting that auto-scales. We also run [**rt.ht**](//rt.ht) – world's shortest SaaS eTLD.
+Our global, multi-cloud, edge network. It gives your work the world-wide edge with distributed hosting that auto-scales.<br>We also run [**rt.ht**](//rt.ht) – world's shortest SaaS eTLD.
 
 
 🤝🏻<br>
