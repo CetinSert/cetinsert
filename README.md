@@ -12,7 +12,7 @@ Our brand-new AI services offering. The agents we develop will assist you in our
 
 🌐<br>
 [**RTEdge.net**](//RTEdge.net)<br>
-Our global, multi-cloud, edge network. It gives your work the world-wide edge with distributed hosting that auto-scales. We also run 𝗿𝘁.𝗵𝘁 – world's shortest SaaS eTLD.
+Our global, multi-cloud, edge network. It gives your work the world-wide edge with distributed hosting that auto-scales. We also run [**rt.ht**](//rt.ht) – world's shortest SaaS eTLD.
 
 
 🤝🏻<br>
