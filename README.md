@@ -1,21 +1,30 @@
-| <br><pre>[&lt;pdf-file&gt;<br>&lt;pdf-page&gt;][📖]</pre> | [Professional PDF web components<br>in the form of HTML custom elements.][📖] |
-| :-: | :- |
-| [<img src="https://webpdf.pro/.svg" width="80">][🌐] | <br><a href="https://try.webpdf.pro/#html=%3Cscript+src%3D%22//webpdf.co/%3C%3E%22+type%3Dmodule%3E%3C/script%3E%0A%0A%3Cbutton+onclick%3Df.save%28%29%3ESave%3C/button%3E%3Cbr%3E%0A%3Cpdf-file++++id%3Df+src%3D//pdf.ist/form.pdf%3E%3C/pdf-file%3E%0A%3Cpdf-page++++of%3Df+svg+scale%3D.4+controls%3E%3C/pdf-page%3E&e=0">▶️ playground <pre style=font-size:.6rem>&lt;script src="//webpdf.co/<>" type=module&gt;&lt;/script&gt;<br><br>&lt;pdf-file    id=f src=//pdf.ist/form.pdf&gt;&lt;/pdf-file&gt;<br>&lt;pdf-page    of=f svg&gt;&lt;/pdf-page&gt;<br><br>&lt;button onclick=f.save()&gt;Save&lt;/button&gt;</pre></a> |
-| [Web**PDF**.*pro*][🌐] | made with ❤️ by [**PDF**.*ist*][🧑🏻‍💻] |
+<λ><br>
+[**Elefunc, Inc.**](//Elefunc.com)<br>
+Delaware C Corp. building real-time web services using latest web platform technologies and AI.
 
-* 📰 [//blog.**PDF**.*ist*][📰]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(latest news, insights)</sup>
-* ▶️ [//try.Web**PDF**.*pro*][▶️]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(playground, examples)</sup>
-* 🌐 [//Web**PDF**.*pro*][🌐]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(homepage, features)</sup>
-* 📖 [//Web**PDF**.*pro*/#📖][📖]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(documentation)</sup>
-* 🐣 [twitter.com/Web**PDF***pro*][🐣]
-* 📘 [facebook.com/Web**PDF**.*pro*][📘]
-* 📧 [support@Web**PDF**.*pro*][📧]
+⚡️<br>
+[**RTCode.io**](//RTCode.io)<br>
+The real-time web development playground for HTML, CSS, and JS. Changes in your code reflect instantly in the output, and vice versa. It supports in-editor Workers for backend code, that can be deployed to RTEdge.net.
 
-[🧑🏻‍💻]: https://PDF.ist
-[📰]: https://blog.PDF.ist
-[📧]: mailto:support@webpdf.pro
-[📘]: https://facebook.com/WebPDF.pro
-[🐣]: https://twitter.com/WebPDFpro
-[🌐]: https://WebPDF.pro
-[📖]: https://WebPDF.pro#📖
-[▶️]: https://try.webpdf.pro/#html=%3Cscript+src%3D%22//webpdf.co/%3C%3E%22+type%3Dmodule%3E%3C/script%3E%0A%0A%3Cbutton+onclick%3Df.save%28%29%3ESave%3C/button%3E%3Cbr%3E%0A%3Cpdf-file++++id%3Df+src%3D//pdf.ist/form.pdf%3E%3C/pdf-file%3E%0A%3Cpdf-page++++of%3Df+svg+scale%3D.4+controls%3E%3C/pdf-page%3E&e=0"
+✨<br>
+[**RTCode.ai**](//RTCode.ai)<br>
+Our brand-new AI services offering. The agents we develop will assist you in our playground and at the edge.
+
+🌐<br>
+[**RTEdge.net**](//RTEdge.net)<br>
+Our global, multi-cloud, edge network. It gives your work the world-wide edge with distributed hosting that auto-scales. We also run 𝗿𝘁.𝗵𝘁 – world's shortest SaaS eTLD.
+
+
+🤝🏻<br>
+We are generously backed by the best:
+- Cloudflare Startup Plan : Enterprise
+- Microsoft for Startups : Azure+OpenAI
+- AWS Activate
+- Google for AI Startups : GCP
+- Oracle : OCI
+
+
+🌐 [Elefunc.com](//Elefunc.com)<br>
+📧 linked@elefunc.com<br>
+📅 [meet.elefunc.com](//meet.elefunc.com)<br>
+🔗 [efn.kr/?](//efn.kr/?)<br>
