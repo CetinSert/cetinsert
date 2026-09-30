@@ -25,6 +25,7 @@ We are generously backed by the best:
 
 
 🌐 [Elefunc.com](//Elefunc.com)<br>
+📝 [blog.elefunc.com](//blog.elefunc.com)<br>
 📧 linked@elefunc.com<br>
 📅 [meet.elefunc.com](//meet.elefunc.com)<br>
 🔗 [efn.kr/?](//efn.kr/?)<br>
